@@ -1,0 +1,1 @@
+This program defines and manages Date and Time classes with operations for adding, subtracting, formatting, and calculating differences. It uses a DateTime base class for shared functionality. The main program demonstrates user input and formatted output for dates and times.
